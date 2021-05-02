@@ -24,3 +24,5 @@ Après, il modifie la dernière valeur de chaque pixel par celle du message bin 
 Pour l'étape de la lecture, on prend donc chaque pixel, on les convertit en binaire puis on regarde le dernier bit et à chaque octet obtenu on converti en txt.
 
 PS : Pour éviter de tout traduire, mon code inscrit la taille en bit du message sur les 16 premiers nb...
+
+SI LE IMPORT OS VOUS FAIT PEUR (ce qui peut arriver quand on connait la puissance de ce module), veuillez supprimer la ligne : 3 et 98
